@@ -64,7 +64,7 @@ function game() {
               return scissorsBeatPaper;
           }
       }
-  
+   
   //  create div DOM for all results
   const container = document.querySelector("#container");
   const resultsDiv = document.createElement("div");
